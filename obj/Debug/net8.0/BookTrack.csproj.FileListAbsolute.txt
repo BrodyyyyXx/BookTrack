@@ -1,0 +1,14 @@
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\bin\Debug\net8.0\BookTrack.exe
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\bin\Debug\net8.0\BookTrack.deps.json
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\bin\Debug\net8.0\BookTrack.runtimeconfig.json
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\bin\Debug\net8.0\BookTrack.dll
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\bin\Debug\net8.0\BookTrack.pdb
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.AssemblyInfoInputs.cache
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.AssemblyInfo.cs
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.csproj.CoreCompileInputs.cache
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.dll
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\refint\BookTrack.dll
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.pdb
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\BookTrack.genruntimeconfig.cache
+C:\Users\vladp\OneDrive\Документы\MyProjects\C#\BookTrack\obj\Debug\net8.0\ref\BookTrack.dll
